@@ -35,7 +35,7 @@
   * You can add and style website links with this HTML template inside every **section_description**, e.g. checkout the current `about_me_description`:
 
   ```html
-  <a class="highlight-link" href="https://github.com/KarraverNax/MasonLIU.github.io" target="_blank" rel="noreferrer"> Github </a>
+  <a class="highlight-link" href="https://github.com/KarraverNax/" target="_blank" rel="noreferrer"> Github </a>
   ```
 
 ## Skills Section
